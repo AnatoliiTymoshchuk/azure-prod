@@ -1,4 +1,4 @@
-# Configure the Microsoft Azure Provider
+# Configure the Microsoft Azure Provider test
 provider "azurerm"  {
   version = "=1.44.0"
 }
